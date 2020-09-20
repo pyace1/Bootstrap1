@@ -1,1 +1,10 @@
 1. ubacivanje snippeta RCH Bootstrap 4 Snippets u Brackets-u
+2. upotreba klase container u sekciji About(Pozadinska slika se siri unutra clase container i izvan)
+  Vidi-vrlo vazno i bitno
+3. objasnjava klasu container-fluid koja ide od ivice do ivice
+4. objasnjava row (redove) , isto u sekciji About
+5. objasnjava py(margine po y i x osi i padinge)
+6. objasnjava Gutters (row bez container klasse mora da ima ovu opciju) inace se pojavljuje 
+   margina po -15px
+		(dodati klasu no-gutters)
+

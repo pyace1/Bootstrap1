@@ -9,3 +9,14 @@
 .carousel-caption {
     bottom: 30%;
 }
+h2::after {
+    display: block;
+    content: "";
+    height: 8px;
+    width: 150px;
+    background: var(--yellow);
+    margin: 30px auto 0 auto;
+}
+.about img {
+    border-radius: 30px;
+}
