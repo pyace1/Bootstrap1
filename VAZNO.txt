@@ -7,4 +7,5 @@
 6. objasnjava Gutters (row bez container klasse mora da ima ovu opciju) inace se pojavljuje 
    margina po -15px
 		(dodati klasu no-gutters)
+7. clasa fixed-top za zakucavanje navigacije za vrh strane
 
