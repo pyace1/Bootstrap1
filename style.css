@@ -3,3 +3,6 @@
     --yellow: #fadb61;
     --gray: #f8f8f8;
 }
+.navbar {
+    background: var(--violet) !important;
+}
