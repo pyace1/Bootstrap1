@@ -6,3 +6,6 @@
 .navbar {
     background: var(--violet) !important;
 }
+.carousel-caption {
+    bottom: 30%;
+}
